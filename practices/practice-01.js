@@ -1,8 +1,8 @@
 var fruits = ["Apple", "Banana", "Orange"];
 
 // Banana index position
-var positionFruits = fruits.indexOf("Banana");
-console.log(positionFruits);
+var bananaIndex = fruits.indexOf("Banana");
+console.log(bananaIndex);
 
 // Replace 'Banana' with 'Mango'
 fruits [1] = "Mango";
